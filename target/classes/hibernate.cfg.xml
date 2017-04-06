@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hibernate-configuration>
+    <session-factory>        
+        <mapping class="vic.apps.model.Suscrip" />
+        <mapping class="vic.apps.model.Acceso" />
+    </session-factory>         
+</hibernate-configuration>
